@@ -1,0 +1,4 @@
+1.Jogging
+2.Shopping
+3.Running
+4.Walking
